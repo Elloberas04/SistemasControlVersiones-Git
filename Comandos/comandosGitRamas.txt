@@ -1,1 +1,6 @@
 Aquí recollirem els comandos més utilitzats per a gestionar les branques d'un repositori.
+
+Aquests són els comandos utilitzats per a crear, unir i eliminar branques:
+1. Git branch
+2. Git merge
+3. Git branch -d
