@@ -1,0 +1,1 @@
+En aquest document mostrarem els comandos de Git més utilitzats fins al moment.
