@@ -1,0 +1,1 @@
+En aquest projecte entendrem com crear un projecte de git pas a pas.
