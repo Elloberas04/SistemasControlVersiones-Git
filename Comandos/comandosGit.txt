@@ -1,1 +1,8 @@
 En aquest document mostrarem els comandos de Git més utilitzats fins al moment.
+
+Aquests són els comandos que hem emprat fins ara:
+1. Git init
+2. Git add
+3. Git commit
+4. Git status
+5. Git log
